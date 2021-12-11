@@ -1,0 +1,6 @@
+sudo docker pull cyberxsecurity/ansible
+sudo docker run -it cyberxsecurity/ansible bash
+sudo docker container list -a
+sudo docker start elated_kilby
+sudo docker ps
+sudo docker attach elated_kilby
