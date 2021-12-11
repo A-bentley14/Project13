@@ -70,7 +70,8 @@ The playbook implements the following tasks:
 - launches the docker elk container after download
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
- 
+ ![Docker_ps_output](https://user-images.githubusercontent.com/89419380/145687528-73d7ada6-a374-49b9-8afa-d7213816ae6e.PNG)
+
 
 
 ![TODO: Update the path with the name of your screenshot of docker ps output](Images/docker_ps_output.png)
